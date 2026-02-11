@@ -7,19 +7,19 @@ and best practices in modern web development.
 ## 🔧 Technologies Used
 - HTML5
 
-## ✨ Features
+## Features
 - Semantic HTML elements (`header`, `nav`, `section`, `article`, `footer`)
 - Clear and logical page structure
 - Accessible content with proper headings and alt attributes
 - Internal navigation using anchor links
 - Clean and readable code with comments
 
-## 🎯 Purpose
+## Purpose
 This project was created as part of a web development internship task to demonstrate
 understanding of semantic HTML, accessibility principles, and clean coding practices.
 
-## 🌐 Live Demo
+## Live Demo link
 https://alishaikh54.github.io/semantic-html-profile/
 
-## 📁 Repository
+## Repository
 https://github.com/AliShaikh54/semantic-html-profile
